@@ -1,13 +1,8 @@
 # Ellen Prochnow Oliveira - (README) 
 
-## About this document
-
-This document is work in progress, and its motivation is to be a document about me.
-
 ## Who am I
 
-* Insatiable Traveler and a pilgrim;
-* A morning person;
+* Traveler;
 * Work with IT Projects since 2010;
 * Agile passionate;
 * Love to chat and to hang out;
